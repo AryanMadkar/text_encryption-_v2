@@ -18,19 +18,31 @@ body {
   background-image: url("/back1.jpg");
   background-size: cover;
   background-position: center;
-
 }
 .swim2 {
   background-image: url("/mainback.jpg");
   background-size: cover;
   background-position: center;
+}
 
+.purp {
+  /* background: rgb(128, 0, 128);
+  background: radial-gradient(
+    circle,
+    rgba(128, 0, 128, 1) 0%,
+    rgba(0, 0, 0, 1) 92%
+  ); */
+  background: rgb(102, 5, 119);
+  background: radial-gradient(
+    circle,
+    rgba(102, 5, 119, 1) 0%,
+    rgba(0, 0, 0, 1) 92%
+  );
 }
 .swim3 {
   background-image: url("/swim3.jpg");
   background-size: cover;
   background-position: center;
-
 }
 
 .card {
